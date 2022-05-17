@@ -1,5 +1,4 @@
 import time
-from turtle import home
 
 
 class TiempoTrabajo:
